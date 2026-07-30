@@ -172,3 +172,34 @@ cap.release()
 ```
 
 ---
+## Output
+
+### i) Write the frame as JPG image
+The captured frame is saved as **captured_frame.jpg**
+
+<img width="658" height="516" alt="image" src="https://github.com/user-attachments/assets/e45ff5d8-e63c-4a5a-8ddc-1934f0589032" />
+
+
+
+### ii) Display the video
+The live webcam video is displayed.
+
+<img width="676" height="499" alt="image" src="https://github.com/user-attachments/assets/c492eb82-7a54-44a5-aa9d-31cd6a3f585a" />
+
+
+
+### iii) Display the video by resizing the window
+The webcam video is displayed after resizing the frame.
+
+<img width="486" height="496" alt="image" src="https://github.com/user-attachments/assets/3ebe70f9-ea69-4276-9489-6e92b5ea2b95" />
+
+
+
+### iv) Rotate and display the video
+The webcam video is displayed after rotating it by **90° clockwise**.
+
+<img width="406" height="497" alt="image" src="https://github.com/user-attachments/assets/a3b5f389-0554-4a2c-9c81-4faf9ff7c281" />
+
+## Result
+
+Thus, the image was successfully captured from the webcam and various video processing operations such as image capture, live video display, resizing, and rotation were performed successfully using OpenCV.
